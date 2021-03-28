@@ -10,3 +10,4 @@
   - Scale the markers based on the **magnitude** of the earthquake.
   - Include time information on mouseover for the markers.
   - Create a legend to help the user understand the displayed information.
+- ![example image]
